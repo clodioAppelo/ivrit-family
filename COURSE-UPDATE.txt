@@ -1,0 +1,9 @@
+Ivrit Family v5: 60 Beginner lessons and 60 Basic–Intermediate lessons.
+
+To update GitHub Pages: replace index.html and sw.js at the root of your existing repository. Keep icons and manifest.webmanifest unchanged. Commit changes and allow deployment. Refresh the installed app; if an older version remains, close and reopen or clear website data.
+
+This update creates a new v5 progress key so old 8-lesson progress does not mark unrelated lessons completed. Existing profile language preferences remain.
+
+Lessons use the existing printed/cursive display, text-to-speech, and browser-based speech recognition. Audio pronunciation scoring is still approximate and browser-dependent. The handwriting font needs network access.
+
+All 120 lessons are short phrase-based exercises grouped into topics; this is a substantially expanded practice curriculum, not a complete CEFR-certified course.
