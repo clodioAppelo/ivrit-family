@@ -1,0 +1,20 @@
+IVRIT FAMILY — FREE iPHONE INSTALLATION
+
+This package is READY TO PUBLISH but is NOT YET ONLINE. A ZIP cannot be installed as an iPhone app directly.
+
+FREE PUBLISHING (GitHub Pages):
+1. Create a free GitHub account at https://github.com/ if you do not have one.
+2. Create a PUBLIC repository named ivrit-family. (Public means the app source and lessons are visible to everyone. Do not include passwords or private family information.)
+3. Upload the CONTENTS of this folder (index.html, sw.js, manifest.webmanifest, icons/, etc.) to the repository ROOT. Do not upload only the ZIP.
+4. In repository Settings > Pages, choose Deploy from a branch, main, / (root), Save.
+5. Wait for the Pages URL, usually https://YOUR_USERNAME.github.io/ivrit-family/
+6. On each iPhone, open that HTTPS URL in Safari. Tap Share > Add to Home Screen > Add (or use Safari's Add to Home Screen menu).
+7. Launch Ivrit Family from the new Home Screen icon. Select Maria, Adriel, or Me. Each phone saves progress LOCALLY, not in a shared account.
+
+IMPORTANT:
+- A free GitHub Pages site makes the app publicly accessible. Do not add private information to its files.
+- Safari microphone speech recognition may be limited. Listening audio depends on available Hebrew voices; pronunciation scoring is basic word matching only.
+- The handwriting font is loaded from Google Fonts and may need internet access.
+- Updates to files require uploading the updated version to the hosting repository.
+- A proper secure family-login and cross-device sync system is NOT included.
+- Desktop Mac and Windows launchers remain included for local testing.
