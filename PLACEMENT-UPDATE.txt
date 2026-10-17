@@ -1,0 +1,3 @@
+Ivrit Family personal learning levels
+Each profile now has an independent 15-question written placement screening (A0–B2), manual level override, level jump and separate local progress. This is not a spoken-language proficiency test.
+Update GitHub Pages by uploading the contents of this folder into the repository root and committing.

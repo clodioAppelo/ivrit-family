@@ -1,0 +1,1 @@
+Ivrit Family profile update: add learners, select A0–C2, per-device saved profiles. C1/C2 learning content not yet developed. No passwords, remote logins, or synchronization. Replace repository files at root and commit.
